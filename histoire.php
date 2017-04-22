@@ -90,15 +90,15 @@
                                  </div>
                                  <div class="timeline-body">
                                      <p class="text-muted">
-                                       Apres plusieur heures, jours, semaines. <br>
-                                       Le site est enfin dispo en phase Alpha. La plupart des fonctionalité vont continuer à etre ameliorer certaine vont disparaitre et d'autres vont naitre afin d'aidez au maximum la communauté des joueur Franconphone !
+                                       Suite à plusieurs heures, jours, semaines... <br>
+                                       <strong>Le site est enfin disponible en phase Alpha !</strong> La plupart des fonctionalités vont continuer à être ameliorées. Certaines vont disparaître, et d'autres vont naître, de manière à aider, au <big>maximum</big>, la communauté des joueurs Francophones !
                                      </p>
                                  </div>
                              </div>
                          </li>
                        <li class="timeline-inverted">
                            <div class="timeline-image">
-                               <h4>Faites<br>partie de<br>l'histoire!</h4>
+                               <h4>Faîtes<br>partie de<br>l'histoire!</h4>
                            </div>
                        </li>
                    </ul>
