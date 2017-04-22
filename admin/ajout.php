@@ -10,7 +10,7 @@
     <link rel="author" href="humans.txt"/>
     <link rel="shortcut icon" href="img/ .png"/>
     <!-- Balise OpenGraph -->
-    <!-- <meta property="og:title" content="Azarothis Technologie a votre ecoute"/>
+    <!-- <meta property="og:title" content="Azarothis Technology à votre écoute"/>
     <meta property="og:type" content="website">
     <meta property="og:description" content="Pour prendre contact avec l'entreprise Azarothis Technologie rien de mieux que cette page.">
     <meta property="op:markup_version" content="v0.1">
@@ -56,7 +56,7 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-heading">
-            Quoi qu'il arrive reste positif il faut i croire.
+            Quoi qu'il arrive, reste positif : il faut y croire.
           </div>
           <a href="#Ajout" class="page-scroll btn btn-xl">Ajouter des informations</a>
         </div>
@@ -69,7 +69,7 @@
     <section id="Ajout">
       <div class="container text-center">
         <h2 class="section-heading">Ajouter des informations</h2>
-        <h3 class="section-subheading text-muted">Il vous suffit de remplir le formulaire integralement.</h3>
+        <h3 class="section-subheading text-muted">Il vous suffit de remplir le formulaire intégralement.</h3>
 
         <div class="row">
           <div class="col-md-10 col-md-offset-1 text-center">
@@ -78,9 +78,9 @@
               <div class="well">
                 <form class="form-horizontal" role="form" method="post" action="traitement.php">
                   <div class="form-group">
-                		<label for="name" class="col-sm-2 control-label">Pseudo</label>
+                		<label for="name" class="col-sm-2 control-label">Pseudonyme</label>
                 		<div class="col-sm-10">
-                			<input type="text" class="form-control" id="Pseudo" name="Pseudo" placeholder="Pseudo du joueur" value="" required="">
+                			<input type="text" class="form-control" id="name" name="name" placeholder="username" value="" required="">
                 		</div>
                 	</div>
                   <div class="form-group">
@@ -90,9 +90,9 @@
                 		</div>
                 	</div>
                   <div class="form-group">
-                		<label for="name" class="col-sm-2 control-label">Reputation</label>
+                		<label for="name" class="col-sm-2 control-label">Réputation</label>
                 		<div class="col-sm-10">
-                			<input type="number" class="form-control" id="Reputation" name="Reputation" placeholder="Reputation du joueur" value="" required="">
+                			<input type="number" class="form-control" id="Reputation" name="Reputation" placeholder="Réputation du joueur" value="" required="">
                 		</div>
                 	</div>
                 	<div class="form-group">
@@ -102,15 +102,15 @@
                          <option value="Joueur Lambda">Joueur Lambda</option>
                          <option value="Membre de la FHC">Membre de la FHC</option>
                          <option value="Top 100">Top 100</option>
-                         <option value="Moderateur">Moderateur</option>
-                         <option value="Developpeur">Developpeur</option>
+                         <option value="Moderateur">Modérateur</option>
+                         <option value="Developpeur">Développeur</option>
                        </select>
                 		</div>
                 	</div>
-                  <div class="form-group">
-                		<label for="name" class="col-sm-2 control-label">Informations sup</label>
+                  <div> class="form-group"
+                		<label for="name" class="col-sm-2 control-label">Informations supplémentaires</label>
                 		<div class="col-sm-10">
-                			<input type="text" class="form-control" id="Informations_Sup" name="Informations_Sup" placeholder="Informations Supplementaire" value="">
+                			<input type="text" class="form-control" id="Informations_Sup" name="Informations_Sup" placeholder="Informations Supplémentaires" value="">
                 		</div>
                 	</div>
                   <div class="form-group">
@@ -120,7 +120,7 @@
                 		</div>
                 	</div>
                   <div class="form-group">
-                		<label for="name" class="col-sm-2 control-label">Abreviation guilde</label>
+                		<label for="name" class="col-sm-2 control-label">Abréviations de la guilde</label>
                 		<div class="col-sm-10">
                 			<input type="text" class="form-control" id="Blason_Guilde" name="Blason_Guilde" placeholder="Abreviation de la guilde" value="">
                 		</div>
