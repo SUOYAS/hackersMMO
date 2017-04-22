@@ -43,9 +43,9 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-heading">
-            Quoi qu'il arrive reste positif il faut i croire.
+            Quoi qu'il arrive, reste positif : il faut y croire.
           </div>
-          <a href="#client" class="page-scroll btn btn-xl">Voir les futurs victime</a>
+          <a href="#client" class="page-scroll btn btn-xl">Voir les futures victimes</a>
         </div>
       </div>
     </header>
@@ -55,7 +55,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2>Liste des datacenter potentiel</h2>
+          <h2>Liste des DataCenters potentiels</h2>
           <div class="col-md-12 text-center table-responsive">
             <table class="table table-hover">
               <thead>
@@ -64,7 +64,7 @@
                   <th>Guilde</th>
                   <th>Leader</th>
                   <th>Co-Leader</th>
-                  <th>Information</th>
+                  <th>Information(s)</th>
                 </tr>
               </thead>
               <?php echo listeDatacenter()?>
