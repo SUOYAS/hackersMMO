@@ -153,7 +153,7 @@
                 		</div>
                 	</div>
                   <div class="form-group">
-                		<label for="name" class="col-sm-2 control-label">Abrévation de la Guilde</label>
+                		<label for="name" class="col-sm-2 control-label">Abrévations de la Guilde</label>
                 		<div class="col-sm-10">
                 			<input type="text" class="form-control" id="Blason_Guilde" name="Blason_Guilde" placeholder="Abreviations de la Guilde" value="" required="">
                 		</div>
