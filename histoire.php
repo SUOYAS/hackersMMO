@@ -30,7 +30,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php" class="text-center">Accueil</a></li>
             <li><a href="histoire.php" class="text-center">Histoire</a></li>
-            <li><a href="tutoriel.php" class="text-center">Tutoriel</a></li>
+            <li><a href="tutoriel.php" class="text-center">Tutoriels</a></li>
             <li><a href="contact.php" class="text-center">Contact</a></li>
             <li><a href="ajout.php"><i class="fa fa-plus"></i></a></li>
             <li><a href="ipliste.php"><i class="fa fa-database"></i></a></li>
@@ -42,8 +42,8 @@
     <header>
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Bonjour!</div>
-          <div class="intro-heading">bienvenue sur l'histoire de la FHC</div>
+          <div class="intro-lead-in">Bonjour,</div>
+          <div class="intro-heading">et bienvenue dans l'histoire de la FHC !</div>
           <a href="#timeline" class="page-scroll btn btn-xl">Suivre</a>
         </div>
       </div>
@@ -72,9 +72,8 @@
                                  </div>
                                  <div class="timeline-body">
                                      <p class="text-muted">
-                                       Le jeu est lancer debut janvier en phase alpha sur le playstore de google.
-                                       Crée et regulierement mis a jour par un seul developpeur.
-                                       !
+                                       Le jeu est lancé début janvier, en phase alpha, sur le playstore de Google.
+                                       Créé, et régulièrement mis à jour, par un seul développeur !
                                      </p>
                                  </div>
                              </div>
