@@ -72,8 +72,8 @@
                                  </div>
                                  <div class="timeline-body">
                                      <p class="text-muted">
-                                       Le jeu est lancé début janvier, en phase alpha, sur le playstore de Google.
-                                       Créé, et régulièrement mis à jour, par un seul développeur !
+                                       Le jeu est lancé début janvier, en phase Alpha, sur le playstore de Google.
+                                       Créé, et régulièrement mis à jour, par un seul, et unique développeur !
                                      </p>
                                  </div>
                              </div>
