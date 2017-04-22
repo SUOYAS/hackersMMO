@@ -43,7 +43,7 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Bonjour!</div>
-          <div class="intro-heading">Ici ce trouve different tutoriel</div>
+          <div class="intro-heading">Ici se trouvent differents tutoriels</div>
           <a href="#portfolio" class="page-scroll btn btn-xl">Suivre</a>
         </div>
       </div>
@@ -53,8 +53,8 @@
       <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Les differents tutoriel</h2>
-                <h3 class="section-subheading text-muted">Pour des joueurs casu ou pour des joueurs plus experimente ,<br>des tutoriel seront disponible regulierement ici sous différents contenues.</h3>
+                <h2 class="section-heading">Les differents tutoriels</h2>
+                <h3 class="section-subheading text-muted">Pour des joueurs casu, ou pour des joueurs plus expérimentés,<br>des tutoriels seront disponibles, régulièrement, ici, sous différents contenus.</h3>
             </div>
         </div>
 
@@ -69,7 +69,7 @@
               <img src="img/tutoriel/Virus_Delete_Ip_History.jpg" class="img-responsive" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Eviter les effet du virus "delete ip history"</h4>
+              <h4>Éviter les effetd du virus "delete ip history"</h4>
               <p class="text-muted">Texte</p>
             </div>
           </div>
@@ -83,7 +83,7 @@
               <img src="img/tutoriel/Technique_Bounce.jpg" class="img-responsive" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Comprendre et maitriser la technique du "Bounce"</h4>
+              <h4>Comprendre et maîtriser la technique du "Bounce"</h4>
               <p class="text-muted">Texte</p>
             </div>
           </div>
