@@ -30,7 +30,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="../index.php" class="text-center">Accueil</a></li>
             <li><a href="../histoire.php" class="text-center">Histoire</a></li>
-            <li><a href="../tutoriel.php" class="text-center">Tutoriel</a></li>
+            <li><a href="../tutoriel.php" class="text-center">Tutoriels</a></li>
             <li><a href="../contact.php" class="text-center">Contact</a></li>
           </ul>
         </div>
@@ -41,7 +41,7 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Bonjour!</div>
-          <div class="intro-heading">bienvenue sur le site de la FHC</div>
+          <div class="intro-heading">Bienvenue sur le site de la FHC</div>
           <a href="#suite" class="page-scroll btn btn-xl">Suivre</a>
         </div>
       </div>
@@ -52,16 +52,16 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4 text-center">
-            <h3>Pour rejoindre la liste des joueur</h3>
+            <h3>Pour rejoindre la liste des joueurs</h3>
             <span><a href="ipliste.php"><i class="fa fa-users fa-5x"></i></a></span>
           </div>
           <div class="col-md-4 text-center">
-            <h3>Pour rejoindre la liste des datacenter</h3>
+            <h3>Pour rejoindre la liste des DataCenters</h3>
             <span><a href="datacenter.php"><i class="fa fa-database fa-5x"></i></a></i></span>
 
           </div>
           <div class="col-md-4 text-center">
-            <h3>Pour rejoindre le systeme d'ajout</h3>
+            <h3>Pour rejoindre le système d'ajout</h3>
             <span><a href="ajout.php"><i class="fa fa-plus fa-5x"></i></a></span>
           </div>
         </div>
