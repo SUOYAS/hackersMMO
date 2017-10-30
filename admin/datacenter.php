@@ -18,7 +18,6 @@
   </head>
   <body id="page-top" class="index">
 
-    <!--  -->
     <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -31,7 +30,7 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="../index.php" class="text-center">Accueil</a></li>
             <li><a href="../histoire.php" class="text-center">Histoire</a></li>
-            <li><a href="../tutoriel.php" class="text-center">Tutoriel</a></li>
+            <li><a href="../tutoriel.php" class="text-center">Tutoriels</a></li>
             <li><a href="../contact.php" class="text-center">Contact</a></li>
           </ul>
         </div>
@@ -43,9 +42,9 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-heading">
-            Quoi qu'il arrive reste positif il faut i croire.
+            Quoi qu'il arrive, reste positif : il faut y croire.
           </div>
-          <a href="#client" class="page-scroll btn btn-xl">Voir les futurs victime</a>
+          <a href="#client" class="page-scroll btn btn-xl">Voir les futures victimes</a>
         </div>
       </div>
     </header>
@@ -55,7 +54,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2>Liste des datacenter potentiel</h2>
+          <h2>Liste des DataCenters potentiels</h2>
           <div class="col-md-12 text-center table-responsive">
             <table class="table table-hover">
               <thead>
@@ -64,7 +63,7 @@
                   <th>Guilde</th>
                   <th>Leader</th>
                   <th>Co-Leader</th>
-                  <th>Information</th>
+                  <th>Informations</th>
                 </tr>
               </thead>
               <?php echo listeDatacenter()?>
